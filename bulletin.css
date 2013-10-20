@@ -8,15 +8,21 @@ This is meant to be divided up into sections for different devices.
 For now, this will probably only be geared towards mobile devices, instead of desktops.
 */
 
+/*Fonts*/
+@import url(http://fonts.googleapis.com/css?family=Domine:400,700);
+
 /*
 main styles
 */
+
 h1,h2,h3,h4,h5,h6, p, ul, li {
   text-align:center;
 }
 
 .title {
   color:green;
+  font-family: 'Domine', serif;
+  font-size:--webkit-xxx-large;
 }
 
 /*Testing*/
