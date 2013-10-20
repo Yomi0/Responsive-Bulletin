@@ -18,6 +18,13 @@ h1,h2,h3,h4,h5,h6, p, ul, li {
 .title {
   color:green;
 }
+
+/*Testing*/
+
+li {
+  list-style-type:none;
+}
+
 /*
 tablets, iPads, and iPad-minis
 */
