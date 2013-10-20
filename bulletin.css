@@ -11,9 +11,9 @@ For now, this will probably only be geared towards mobile devices, instead of de
 /*Fonts*/
 @import url(http://fonts.googleapis.com/css?family=Domine:400,700);
 
-/*
-main styles
-*/
+
+/*main styles*/
+
 
 h1,h2,h3,h4,h5,h6, p, ul, li {
   text-align:center;
@@ -35,10 +35,7 @@ li {
   font-weight:800;
 }
 
-/*
-tablets, iPads, and iPad-minis
-*/
+/*tablets, iPads, and iPad minis*/
 
-/*
-Phones : iPhones and Android smartphones
-*/
+
+/*Phones : iPhones and Android smartphones */
