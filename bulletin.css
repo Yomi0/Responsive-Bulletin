@@ -14,7 +14,6 @@ For now, this will probably only be geared towards mobile devices, instead of de
 
 /*main styles*/
 
-
 h1,h2,h3,h4,h5,h6, p, ul, li {
   text-align:center;
 }
@@ -38,6 +37,7 @@ li {
 
 .churchname {
   font-weight:800;
+  font-family:"Impact";
 }
 
 /*tablets, iPads, and iPad minis*/
